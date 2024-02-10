@@ -1,0 +1,2 @@
+[08-Oct-2019 09:51:55 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/cabdinpa/public_html/bos/modules/pklk/act_pilih.php:1) in /home/cabdinpa/public_html/bos/modules/pklk/act_pilih.php on line 2
+[08-Oct-2019 09:51:58 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/cabdinpa/public_html/bos/modules/pklk/act_rkas.php:1) in /home/cabdinpa/public_html/bos/modules/pklk/act_rkas.php on line 2

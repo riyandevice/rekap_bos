@@ -1,0 +1,53 @@
+[08-Oct-2019 09:36:47 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/cabdinpa/public_html/bos/modules/dinas/tabel.php:1) in /home/cabdinpa/public_html/bos/modules/dinas/tabel.php on line 2
+[08-Oct-2019 09:36:55 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/cabdinpa/public_html/bos/modules/dinas/tabel.php:1) in /home/cabdinpa/public_html/bos/modules/dinas/tabel.php on line 2
+[08-Oct-2019 09:38:23 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/cabdinpa/public_html/bos/modules/dinas/tabel.php:1) in /home/cabdinpa/public_html/bos/modules/dinas/tabel.php on line 2
+[08-Oct-2019 09:38:26 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/cabdinpa/public_html/bos/modules/dinas/th_pelajaran.php:1) in /home/cabdinpa/public_html/bos/modules/dinas/th_pelajaran.php on line 2
+[08-Oct-2019 09:38:28 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/cabdinpa/public_html/bos/modules/dinas/tabel.php:1) in /home/cabdinpa/public_html/bos/modules/dinas/tabel.php on line 2
+[08-Oct-2019 09:38:29 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/cabdinpa/public_html/bos/modules/dinas/tabel.php:1) in /home/cabdinpa/public_html/bos/modules/dinas/tabel.php on line 2
+[08-Oct-2019 09:38:34 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/cabdinpa/public_html/bos/modules/dinas/act_laporan_belanja.php:1) in /home/cabdinpa/public_html/bos/modules/dinas/act_laporan_belanja.php on line 2
+[08-Oct-2019 09:45:37 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/cabdinpa/public_html/bos/modules/dinas/tabel.php:1) in /home/cabdinpa/public_html/bos/modules/dinas/tabel.php on line 2
+[08-Oct-2019 09:45:45 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/cabdinpa/public_html/bos/modules/dinas/tabel.php:1) in /home/cabdinpa/public_html/bos/modules/dinas/tabel.php on line 2
+[08-Oct-2019 11:02:46 Asia/Jakarta] PHP Notice:  Undefined index: id_semester in /home/cabdinpa/public_html/bos/modules/dinas/act_laporan_chart.php on line 84
+[08-Oct-2019 11:02:46 Asia/Jakarta] PHP Notice:  Undefined variable: data2 in /home/cabdinpa/public_html/bos/modules/dinas/act_laporan_chart.php on line 347
+[08-Oct-2019 11:02:46 Asia/Jakarta] PHP Notice:  Undefined variable: data3 in /home/cabdinpa/public_html/bos/modules/dinas/act_laporan_chart.php on line 347
+[08-Oct-2019 11:02:46 Asia/Jakarta] PHP Notice:  Undefined variable: data4 in /home/cabdinpa/public_html/bos/modules/dinas/act_laporan_chart.php on line 347
+[08-Oct-2019 11:02:46 Asia/Jakarta] PHP Notice:  Undefined variable: data5 in /home/cabdinpa/public_html/bos/modules/dinas/act_laporan_chart.php on line 347
+[08-Oct-2019 11:02:46 Asia/Jakarta] PHP Notice:  Undefined variable: data6 in /home/cabdinpa/public_html/bos/modules/dinas/act_laporan_chart.php on line 347
+[08-Oct-2019 11:02:46 Asia/Jakarta] PHP Notice:  Undefined variable: data7 in /home/cabdinpa/public_html/bos/modules/dinas/act_laporan_chart.php on line 347
+[08-Oct-2019 11:02:46 Asia/Jakarta] PHP Notice:  Undefined variable: data8 in /home/cabdinpa/public_html/bos/modules/dinas/act_laporan_chart.php on line 347
+[08-Oct-2019 11:02:46 Asia/Jakarta] PHP Notice:  Undefined variable: b_pegawai in /home/cabdinpa/public_html/bos/modules/dinas/act_laporan_chart.php on line 362
+[08-Oct-2019 11:02:46 Asia/Jakarta] PHP Notice:  Undefined variable: b_barang in /home/cabdinpa/public_html/bos/modules/dinas/act_laporan_chart.php on line 362
+[08-Oct-2019 11:02:46 Asia/Jakarta] PHP Notice:  Undefined variable: b_alat in /home/cabdinpa/public_html/bos/modules/dinas/act_laporan_chart.php on line 362
+[08-Oct-2019 11:02:46 Asia/Jakarta] PHP Notice:  Undefined variable: b_aset in /home/cabdinpa/public_html/bos/modules/dinas/act_laporan_chart.php on line 362
+[10-Oct-2019 14:08:42 Asia/Jakarta] PHP Notice:  Undefined index: id_semester in /home/cabdinpa/public_html/bos/modules/dinas/act_laporan_chart.php on line 84
+[10-Oct-2019 14:08:42 Asia/Jakarta] PHP Notice:  Undefined variable: data2 in /home/cabdinpa/public_html/bos/modules/dinas/act_laporan_chart.php on line 347
+[10-Oct-2019 14:08:42 Asia/Jakarta] PHP Notice:  Undefined variable: data3 in /home/cabdinpa/public_html/bos/modules/dinas/act_laporan_chart.php on line 347
+[10-Oct-2019 14:08:42 Asia/Jakarta] PHP Notice:  Undefined variable: data4 in /home/cabdinpa/public_html/bos/modules/dinas/act_laporan_chart.php on line 347
+[10-Oct-2019 14:08:42 Asia/Jakarta] PHP Notice:  Undefined variable: data5 in /home/cabdinpa/public_html/bos/modules/dinas/act_laporan_chart.php on line 347
+[10-Oct-2019 14:08:42 Asia/Jakarta] PHP Notice:  Undefined variable: data6 in /home/cabdinpa/public_html/bos/modules/dinas/act_laporan_chart.php on line 347
+[10-Oct-2019 14:08:42 Asia/Jakarta] PHP Notice:  Undefined variable: data7 in /home/cabdinpa/public_html/bos/modules/dinas/act_laporan_chart.php on line 347
+[10-Oct-2019 14:08:42 Asia/Jakarta] PHP Notice:  Undefined variable: data8 in /home/cabdinpa/public_html/bos/modules/dinas/act_laporan_chart.php on line 347
+[10-Oct-2019 14:08:42 Asia/Jakarta] PHP Notice:  Undefined variable: b_pegawai in /home/cabdinpa/public_html/bos/modules/dinas/act_laporan_chart.php on line 362
+[10-Oct-2019 14:08:42 Asia/Jakarta] PHP Notice:  Undefined variable: b_barang in /home/cabdinpa/public_html/bos/modules/dinas/act_laporan_chart.php on line 362
+[10-Oct-2019 14:08:42 Asia/Jakarta] PHP Notice:  Undefined variable: b_alat in /home/cabdinpa/public_html/bos/modules/dinas/act_laporan_chart.php on line 362
+[10-Oct-2019 14:08:42 Asia/Jakarta] PHP Notice:  Undefined variable: b_aset in /home/cabdinpa/public_html/bos/modules/dinas/act_laporan_chart.php on line 362
+[10-Oct-2019 21:59:29 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/cabdinpa/public_html/bos/modules/dinas/tabel.php:1) in /home/cabdinpa/public_html/bos/modules/dinas/tabel.php on line 2
+[10-Oct-2019 21:59:31 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/cabdinpa/public_html/bos/modules/dinas/tabel.php:1) in /home/cabdinpa/public_html/bos/modules/dinas/tabel.php on line 2
+[10-Oct-2019 21:59:32 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/cabdinpa/public_html/bos/modules/dinas/tabel.php:1) in /home/cabdinpa/public_html/bos/modules/dinas/tabel.php on line 2
+[10-Oct-2019 21:59:48 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/cabdinpa/public_html/bos/modules/dinas/tabel.php:1) in /home/cabdinpa/public_html/bos/modules/dinas/tabel.php on line 2
+[10-Oct-2019 22:00:00 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/cabdinpa/public_html/bos/modules/dinas/tabel.php:1) in /home/cabdinpa/public_html/bos/modules/dinas/tabel.php on line 2
+[10-Oct-2019 22:00:03 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/cabdinpa/public_html/bos/modules/dinas/tabel.php:1) in /home/cabdinpa/public_html/bos/modules/dinas/tabel.php on line 2
+[10-Oct-2019 22:00:04 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/cabdinpa/public_html/bos/modules/dinas/tabel.php:1) in /home/cabdinpa/public_html/bos/modules/dinas/tabel.php on line 2
+[10-Oct-2019 22:00:08 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/cabdinpa/public_html/bos/modules/dinas/tabel.php:1) in /home/cabdinpa/public_html/bos/modules/dinas/tabel.php on line 2
+[10-Oct-2019 22:11:58 Asia/Jakarta] PHP Notice:  Undefined index: id_semester in /home/cabdinpa/public_html/bos/modules/dinas/act_laporan_chart.php on line 84
+[10-Oct-2019 22:11:58 Asia/Jakarta] PHP Notice:  Undefined variable: data2 in /home/cabdinpa/public_html/bos/modules/dinas/act_laporan_chart.php on line 347
+[10-Oct-2019 22:11:58 Asia/Jakarta] PHP Notice:  Undefined variable: data3 in /home/cabdinpa/public_html/bos/modules/dinas/act_laporan_chart.php on line 347
+[10-Oct-2019 22:11:58 Asia/Jakarta] PHP Notice:  Undefined variable: data4 in /home/cabdinpa/public_html/bos/modules/dinas/act_laporan_chart.php on line 347
+[10-Oct-2019 22:11:58 Asia/Jakarta] PHP Notice:  Undefined variable: data5 in /home/cabdinpa/public_html/bos/modules/dinas/act_laporan_chart.php on line 347
+[10-Oct-2019 22:11:58 Asia/Jakarta] PHP Notice:  Undefined variable: data6 in /home/cabdinpa/public_html/bos/modules/dinas/act_laporan_chart.php on line 347
+[10-Oct-2019 22:11:58 Asia/Jakarta] PHP Notice:  Undefined variable: data7 in /home/cabdinpa/public_html/bos/modules/dinas/act_laporan_chart.php on line 347
+[10-Oct-2019 22:11:58 Asia/Jakarta] PHP Notice:  Undefined variable: data8 in /home/cabdinpa/public_html/bos/modules/dinas/act_laporan_chart.php on line 347
+[10-Oct-2019 22:11:58 Asia/Jakarta] PHP Notice:  Undefined variable: b_pegawai in /home/cabdinpa/public_html/bos/modules/dinas/act_laporan_chart.php on line 362
+[10-Oct-2019 22:11:58 Asia/Jakarta] PHP Notice:  Undefined variable: b_barang in /home/cabdinpa/public_html/bos/modules/dinas/act_laporan_chart.php on line 362
+[10-Oct-2019 22:11:58 Asia/Jakarta] PHP Notice:  Undefined variable: b_alat in /home/cabdinpa/public_html/bos/modules/dinas/act_laporan_chart.php on line 362
+[10-Oct-2019 22:11:58 Asia/Jakarta] PHP Notice:  Undefined variable: b_aset in /home/cabdinpa/public_html/bos/modules/dinas/act_laporan_chart.php on line 362

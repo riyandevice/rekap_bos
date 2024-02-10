@@ -1,0 +1,36 @@
+<IfModule mod_rewrite.c>
+RewriteEngine on
+RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /(.*)index\.php($|\ |\?)
+RewriteRule ^ /%1 [R=301,L]
+
+Options All -Indexes
+Options -Indexes
+</IfModule>
+
+<IfModule mod_rewrite.c>
+RewriteEngine on
+RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /(.*)media\.php($|\ |\?)
+RewriteRule ^ /%1 [R=301,L]
+
+Options All -Indexes
+Options -Indexes
+</IfModule>
+
+<Files ~"^.*\.([Hh][Tt][Aa])">
+    order allow,deny
+    deny from all
+    satisfy all
+</Files>
+
+<IfModule mod_rewrite.c>
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule ^(.*)$ $1.php
+</IfModule>
+
+# Block WordPress xmlrpc.php requests
+<Files xmlrpc.php>
+order deny,allow
+deny from all
+</Files>
